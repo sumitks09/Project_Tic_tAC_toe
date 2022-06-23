@@ -2,15 +2,7 @@
 #include <conio.h>
 #include <windows.h>
 
-/* This cpp program is supposed to run a simple tic-tac-toe game 
-which will keep scores, and allow you to choose from best 2 
-out of 3 or best 3 out of 5.  I ran this program on code::blocks 
-a month ago and it worked, but I made slight changes, and 
-havn't built the program since then.  If it doesn't work, 
-I would appreciate some help. It has only been roughly 2 
-months since I started learning cpp at my high school, and a month when I 
-finished this program, so there will be errors and bugs.  
-Anyways, thanks for checking my program out, and I'm working on more simple games like this one :D */
+
 
 
 
